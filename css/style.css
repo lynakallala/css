@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: #E41BD2;
+}
+.her{
+    background-color: #921BE4;
+}
+
+.her ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+.sur{
+    background-color:#E41BD2 ;
+
+
+}
+.hey {
+    background-color: #E41B6D;
+}
+.abcd {
+    background-color: #E41BD2;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hy {
+    background-color: #921BE4;
+}
+.box {
+    background-color: #E41BD2;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+.glue{
+    background-color: #E41B6D;
+}
+.info {
+    background-color: #E41BD2;
+}
+.git {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
